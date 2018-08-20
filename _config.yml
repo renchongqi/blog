@@ -1,1 +1,6 @@
+title: rcq
+highlighter: rouge
+markdown: redcarpet
+kramdown:
+nput: GFM
 theme: jekyll-theme-minimal
