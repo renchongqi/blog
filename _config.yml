@@ -1,9 +1,8 @@
 # Site settings
-title: Blog
-email: your-email@domain.com
+title: renchongqi
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: http://renchongqi.github.io/jekyll-doc-theme # the base hostname & protocol for your site
+url: http://renchongqi.github.io/blog
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap

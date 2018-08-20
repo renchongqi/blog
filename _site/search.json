@@ -4,50 +4,8 @@
     
     
     {
-      "title": "Welcome",
-      "url": "/blog/docs/home/"
-
-    },
-  
-    
-    
-    {
-      "title": "Themes",
-      "url": "/blog/docs/themes/"
-
-    },
-  
-    
-    
-    {
-      "title": "Customization",
-      "url": "/blog/docs/customization/"
-
-    },
-  
-
-  
-    
-    
-    {
       "title": "Markdown Cheatsheet",
-      "url": "/blog/docs/cheatsheet/"
-
-    },
-  
-    
-    
-    {
-      "title": "Font Awesome Icon List",
-      "url": "/blog/docs/font-awesome/"
-
-    },
-  
-    
-    
-    {
-      "title": "Bootstrap Features",
-      "url": "/blog/docs/bootstrap/"
+      "url": "/blog/docs/home/"
 
     },
   
